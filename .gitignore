@@ -1,0 +1,22 @@
+OhneSpass/OhneSpass.ServiceInterface/bin/# git ignore file
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+release
+debug
+*/packages/*
+!packages/repositories.config
+*.FileListAbsolute.txt
+*DesignTimeResolveAssemblyReferences.cache
+*.FileListAbsolute.txt
+*.suo
+*.user
+*.user
+Debug/OhneSpass.ServiceInterface.dll
+*.FileListAbsolute.txt
+.vs/*
+bower_components
+node_modules
+GATH/appSettings.txt
